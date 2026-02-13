@@ -470,20 +470,6 @@ Use these when you’re past the onboarding flow and want the deeper reference.
 
 - [docs.openclaw.ai/gmail-pubsub](https://docs.openclaw.ai/automation/gmail-pubsub)
 
-## Molty
-
-OpenClaw was built for **Molty**, a space lobster AI assistant. 🦞
-by Peter Steinberger and the community.
-
-- [openclaw.ai](https://openclaw.ai)
-- [soul.md](https://soul.md)
-- [steipete.me](https://steipete.me)
-- [@openclaw](https://x.com/openclaw)
-
-## Community
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, maintainers, and how to submit PRs.
-AI/vibe-coded PRs welcome! 🤖
 
 
 
