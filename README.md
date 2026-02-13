@@ -463,9 +463,7 @@ Use these when you’re past the onboarding flow and want the deeper reference.
 - [Windows (WSL2)](https://docs.openclaw.ai/platforms/windows)
 - [Linux app](https://docs.openclaw.ai/platforms/linux)
 
-## Email hooks (Gmail)
 
-- [docs.openclaw.ai/gmail-pubsub](https://docs.openclaw.ai/automation/gmail-pubsub)
 
 
 
